@@ -1,0 +1,9 @@
+body{
+    background: #FAE8FF;
+}
+li{
+    list-style: none;
+}
+img{
+    object-fit: cover;
+}
